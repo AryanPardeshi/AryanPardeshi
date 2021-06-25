@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanPardeshi
 - 👀 I’m interested in game devlopment
-- 🌱 I’m currently learning jawa script
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
